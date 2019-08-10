@@ -1,0 +1,25 @@
+{
+  "name": "botinvisible",
+  "version": "1.0.0",
+  "description": "twitterbot generating from tracery",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "Saint_LOUP",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.x",
+    "node-persist": "^2.x",
+    "twit": "^2.x",
+    "winston": "^2.4.0",
+    "etime": "^1.0.2"
+  },
+  "engines": {
+    "node": "11"
+  },
+  "repository": {
+    "type": "glitch",
+    "url": "https://glitch.com/edit/#!/botinvisible"
+  }
+}

@@ -1,0 +1,234 @@
+{
+   "origin": [
+      "#moitié_1# #moitié_2# ",
+      "#moitié_1#",
+      "#proposition# – #intro_outro# #nom#"
+],
+  
+   "moitié_1":[
+      "#affixe# #nom# #adjectif#",
+      "#affixe# #GP#",
+      "#proposition#",
+      "#verbe# — De l’insigne faiblesse de #nom#"
+
+   ],
+   "chiffre":[
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+   ],
+   "moitié_2":[
+      "– par #personne#",
+      "ou rien",
+      "(#chiffre#/3)",
+      "(partie #chiffre#)",
+      ": « Quelle joie ! Quel bonheur ! »",
+      "– #personne#",
+      "– Avec #personne#",
+      "– Par le Comité érotique révolutionnaire"
+   ],
+   "proposition":[
+      "Cher #personne#",
+      "Qu'aurait pu dire #personne# au sujet de #nom#",
+      "#S_ternaire#",
+      "#S_verbe_nom_X2#",
+      "Leurs #nom.s# contre les nôtres",
+      "Leurs #nom.s# contre nos #nom.s#",
+      "Leurs #nom.s# contre nos #GP#",
+      "#preposition# #GP#",
+      "#GP# qui vient",
+      "#GP# qui manque",
+      "#nom# a toujours été #GP#",
+      "De la guerre contre #nom# à la guerre contre #nom#",
+      "À franchement parler, #nom# ne nous intéresse pas",
+      "#verbe#, une philosophie de #nom#",
+      "Soudain, #nom# !",
+      "Car #nom# n’est pas un mot dans nos bouches, mais #GP# dans notre coeur"
+   ],
+   "preposition":[
+      "pour",
+      "contre",
+      "par-delà"
+   ],  
+   "S_ternaire":[
+      "#nom# #adjectif# & #nom# #adjectif#",
+      "#verbe#, #verbe#, #verbe#"
+   ],
+   "S_verbe_nom_X2":[
+      "#verbe# #nom#",
+      "#verbe# #nom#"
+   ],
+   "intro_outro":[
+      "Qu'attendre de",
+      "Ainsi parlait",
+      "Appendice sur",
+      "Chroniques éparses de",
+      "De",
+      "Dernières déclarations sur",
+      "Dialectique de",
+      "Du",
+      "Hypothèses sur",
+      "Il n’y a pas",
+      "Il n’y aura pas de",
+      "La logique du",
+      "Les soulèvements de",
+      "L’esprit de",
+      "Mythopoétique de",
+      "Physique et métaphysique de",
+      "Phénoménologie de",
+      "Plus fort que",
+      "Polémiques sur",
+      "Qu'est-ce que",
+      "Réflexions sur",
+      "Thèses sur",
+      "Un apport de",
+      "Élements de",
+     "La fatigue d'être",
+     "la conscience de"
+   ],
+   "outro":[
+      "Une étrange alliance :"
+   ],
+   "affixe":[
+      "#intro_outro#",
+      "#outro#"
+   ],
+   "personne":[
+      "Alain Badiou",
+      "Serge Quadruppani",
+      "Frédéric Lordon",
+      "Marcel Campion",
+      "Toni Negri",
+      "Agamben",
+      "Chaban-Delmas"
+   ],
+   "nom":[
+      "#nom_masc#",
+      "#nom_fem#"
+   ],
+   "nom_masc":[
+      "l'éthos",
+      "un révolutionnaire",
+      "un nomade",
+      "l'opium",
+      "le capitalisme",
+      "la grève générale",
+      "l’État",
+      "le politique",
+      "le pouvoir",
+      "le nihilisme",
+      "la négation",
+      "l'urgence",
+      "l'affect",
+      "le corps",
+      "le surgissement",
+      "le Peuple",
+      "un évènement",
+      "un honneur",
+     "un pavé",
+     "barricade",
+     "le soulèvement",
+     "le communisme",
+     "un antifascisme",
+     "le marché",
+     "black block",
+     "le blocage"
+    
+   ],
+   "nom_fem":[
+      "l'émeute",
+      "la violence",
+      "la brutalité",
+      "une praxis",
+      "la vie",
+      "l'absence",
+      "une absence",
+      "une époque",
+      "la danse",
+      "la tempête",
+      "la ville",
+      "la trique",
+      "une radicalité",
+      "la singularité",
+     "la rue",
+     "l'insurrection",
+      "l'économie",
+     "la démesure",
+     "l'incendie"
+
+   ],
+   "adjectif":[
+      "#adjectif_masc#",
+      "#adjectif_fem#",
+      "d'en bas"
+   ],
+   "adjectif_masc":[
+      "experientiel",
+      "vivace",
+      "jaune",
+      "décentré",
+      "renversé",
+      "infini",
+      "révolutionnaire",
+      "concret",
+      "intempestif",
+      "lent",
+      "radical",
+      "absolu",
+      "impérieux",
+      "biopolitique",
+      "spéculaire",
+      "réticulaire",
+      "impossible",
+      "sauvage",
+      "affinitaire"
+
+   ],
+   "adjectif_fem":[
+      "experientielle",
+      "vivace",
+      "jaune",
+      "décentrée",
+      "renversée",
+      "infinie",
+      "révolutionnaire",
+      "concrète",
+      "impérieuse",
+      "lente",
+      "absolue",
+      "sauvage"
+   ],
+   "GP":[
+      "un moment du vrai",
+      "une machine de guerre",
+      "des lignes de fuite",
+      "le vieux monde",
+      "un rêve sombre et profond",
+      "les multitudes #adjectif_fem.s#",
+      "la puissance de #nom#",
+      "une assemblée #adjectif_fem# ",
+      "la révolution permanente",
+      "les pneus de voiture",
+      "les feux de joie",
+      "un feu dans notre cœur",
+      "gilet jaune",
+     "le vol noir"
+   ],
+   "verbe":[
+      "s’engueuler",
+      "dépasser",
+      "avancer",
+      "renverser",
+      "décentrer",
+      "danser",
+      "vaincre",
+      "délibérer",
+      "agir",
+      "rompre",
+      "surgir",
+      "déplacer",
+     "bloquer"
+   ]
+}
